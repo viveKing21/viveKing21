@@ -11,13 +11,13 @@
 
 - 🔭 My first java project [Batch Monitoring Java Mini Project](https://github.com/viveKing21/bashful-invention-7775)
 
-- 👨‍💻 All of my projects are available at [https://viveKing21.github.io](https://viveKing21.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://viveKing21.github.io)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Java etc.**
 
 - 📫 How to reach me **vs246246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
+- 📄 Know about my experiences [Vivek Sharma (Resume)](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
