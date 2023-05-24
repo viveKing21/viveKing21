@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveking21" alt="viveking21" /></a> </p>
 
-- 🔭 I worked on a individual project [Belk Clone - Ecommerce Website (Cloned)](https://github.com/viveKing21/masai-ecom.git)
+- 🔭 I worked on an individual project [Belk Clone - Ecommerce Website (Cloned)](https://github.com/viveKing21/masai-ecom.git)
 
 - 🌱 I’m currently learning **Spring Boot, Java**
 
