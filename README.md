@@ -3,18 +3,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveking21" alt="viveking21" /></a> </p>
 
+- 🔭 I worked on a individual project [Belk Clone - Ecommerce Website (Cloned)](https://github.com/viveKing21/masai-ecom.git)
+
 - 🌱 I’m currently learning **Spring Boot, Java**
-- 👨‍💻 All of my projects are available at [viveKing21](https://viveKing21.github.io)
+
+- 🤝 I’m worked on a collaborative project [Tiny Toes - Ecommerce Website (Cloned)](https://github.com/viveKing21/tiny-toes-foolish-quiet-4224)
+
+- 🔭 My first java project [Batch Monitoring Java Mini Project](https://github.com/viveKing21/bashful-invention-7775)
+
+- 👨‍💻 All of my projects are available at [https://viveKing21.github.io](https://viveKing21.github.io)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Java etc.**
 
 - 📫 How to reach me **vs246246@gmail.com**
 
-- 📄 Know about my experiences [Vivek Sharma](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vivek-sharma-2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vivek-sharma-2001" height="30" width="40" /></a>
+<a href="https://codepen.io/vivek-sharma-2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vivek-sharma-2001/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek-sharma-6ba258203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sharma-6ba258203" height="30" width="40" /></a>
 <a href="https://fb.com/viveksharma0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viveksharma0301" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@viveksharma_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@viveksharma_9" height="30" width="40" /></a>
