@@ -4,14 +4,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveking21" alt="viveking21" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Java**
-
-- 👨‍💻 All of my projects are available at [https://viveKing21.github.io](https://viveKing21.github.io)
+- 👨‍💻 All of my projects are available at [viveKing21](https://viveKing21.github.io)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Java etc.**
 
 - 📫 How to reach me **vs246246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
+- 📄 Know about my experiences [Vivek Sharma](https://drive.google.com/file/d/144qzxRNsGJVLV8v037-U6x7EMsVOHCs0/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
