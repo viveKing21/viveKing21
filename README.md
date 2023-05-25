@@ -11,7 +11,7 @@
 
 - 🔭 My first java project [Batch Monitoring Java Mini Project](https://github.com/viveKing21/bashful-invention-7775)
 
-- 👨‍💻 All of my projects are available at https://viveKing21.github.io/
+- 👨‍💻 All of my projects are available at https://viveking21.github.io/
 
 - 💬 Ask me about **HTML, CSS, JS, React, Java etc.**
 
