@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java**
 
-- 🤝 I’m worked on a collaborative project [Tiny Toes - Ecommerce Website (Cloned)](https://github.com/viveKing21/tiny-toes-foolish-quiet-4224)
+- 🤝 I have worked on a collaborative project [Tiny Toes - Ecommerce Website (Cloned)](https://github.com/viveKing21/tiny-toes-foolish-quiet-4224)
 
 - 🔭 My first java project [Batch Monitoring Java Mini Project](https://github.com/viveKing21/bashful-invention-7775)
 
