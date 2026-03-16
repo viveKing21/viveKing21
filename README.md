@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vivek Sharma</h1>
-<h3 align="center">Full Stack Developer · Java · React · Spring Boot</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
