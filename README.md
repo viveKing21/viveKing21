@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viveKing21/viveKing21/main/hero-banner.svg" alt="Vivek Sharma — Full Stack Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/viveKing21/viveKing21/17847324805735c342b737389b11ea01f054d7cb/hero-banner.svg" alt="Vivek Sharma — Full Stack Developer" width="100%"/>
 
 <br/>
 <br/>
