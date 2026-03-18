@@ -1,16 +1,10 @@
 <h1 align="center">Hi, I'm Vivek Sharma</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=viveking21" alt="viveking21" />
-  </a>
-</p>
-
 - 🚀 AI-powered platforms — **Omnia** (workflow automation) & **Elma** (email campaign generation) at [QuestLabs AI](https://questera.ai/)
 - 🤖 Worked on **Greta** — an AI tool to generate complete full-stack websites using AI agents
 - 📱 Built **HelpHub** — a cross-platform customer support mobile app (Android & iOS)
-- 📦 Published open source NPM packages: [React Tour Navigator](https://github.com/viveKing21), [React Multi-Route Tour](https://github.com/viveKing21), React Native Linechart
+- 📦 Published open source NPM packages: [React Tour Navigator](https://github.com/viveKing21/tour-navigator), [React Multi-Route Tour](https://github.com/viveKing21/multiroute-tour-navigator), React Native Linechart
 - 📲 10K+ downloads on Play Store — **Bhajan Book** & **iCalculator**
 - 👨‍💻 All projects available at [viveking21.github.io](https://viveking21.github.io/)
 - 💬 Ask me about **Java, Spring Boot, React, React Native, REST APIs, AI integrations**
