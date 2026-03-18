@@ -1,0 +1,92 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#1a1040"/>
+      <stop offset="100%" style="stop-color:#0d0d2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff7300"/>
+      <stop offset="100%" style="stop-color:#0049ff"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff7300"/>
+      <stop offset="100%" style="stop-color:#ff4f9a"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="30%" cy="50%" r="40%">
+      <stop offset="0%" style="stop-color:#ff730033"/>
+      <stop offset="100%" style="stop-color:#ff730000"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="75%" cy="40%" r="35%">
+      <stop offset="0%" style="stop-color:#0049ff22"/>
+      <stop offset="100%" style="stop-color:#0049ff00"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)" rx="16"/>
+
+  <!-- Glow blobs -->
+  <ellipse cx="200" cy="160" rx="220" ry="140" fill="url(#glow1)"/>
+  <ellipse cx="680" cy="120" rx="200" ry="130" fill="url(#glow2)"/>
+
+  <!-- Subtle grid dots -->
+  <g opacity="0.08" fill="#ffffff">
+    <circle cx="60" cy="40" r="1.2"/><circle cx="120" cy="40" r="1.2"/><circle cx="180" cy="40" r="1.2"/><circle cx="240" cy="40" r="1.2"/><circle cx="300" cy="40" r="1.2"/><circle cx="360" cy="40" r="1.2"/><circle cx="420" cy="40" r="1.2"/><circle cx="480" cy="40" r="1.2"/><circle cx="540" cy="40" r="1.2"/><circle cx="600" cy="40" r="1.2"/><circle cx="660" cy="40" r="1.2"/><circle cx="720" cy="40" r="1.2"/><circle cx="780" cy="40" r="1.2"/><circle cx="840" cy="40" r="1.2"/>
+    <circle cx="60" cy="100" r="1.2"/><circle cx="120" cy="100" r="1.2"/><circle cx="180" cy="100" r="1.2"/><circle cx="240" cy="100" r="1.2"/><circle cx="300" cy="100" r="1.2"/><circle cx="360" cy="100" r="1.2"/><circle cx="420" cy="100" r="1.2"/><circle cx="480" cy="100" r="1.2"/><circle cx="540" cy="100" r="1.2"/><circle cx="600" cy="100" r="1.2"/><circle cx="660" cy="100" r="1.2"/><circle cx="720" cy="100" r="1.2"/><circle cx="780" cy="100" r="1.2"/><circle cx="840" cy="100" r="1.2"/>
+    <circle cx="60" cy="160" r="1.2"/><circle cx="120" cy="160" r="1.2"/><circle cx="180" cy="160" r="1.2"/><circle cx="240" cy="160" r="1.2"/><circle cx="300" cy="160" r="1.2"/><circle cx="360" cy="160" r="1.2"/><circle cx="420" cy="160" r="1.2"/><circle cx="480" cy="160" r="1.2"/><circle cx="540" cy="160" r="1.2"/><circle cx="600" cy="160" r="1.2"/><circle cx="660" cy="160" r="1.2"/><circle cx="720" cy="160" r="1.2"/><circle cx="780" cy="160" r="1.2"/><circle cx="840" cy="160" r="1.2"/>
+    <circle cx="60" cy="220" r="1.2"/><circle cx="120" cy="220" r="1.2"/><circle cx="180" cy="220" r="1.2"/><circle cx="240" cy="220" r="1.2"/><circle cx="300" cy="220" r="1.2"/><circle cx="360" cy="220" r="1.2"/><circle cx="420" cy="220" r="1.2"/><circle cx="480" cy="220" r="1.2"/><circle cx="540" cy="220" r="1.2"/><circle cx="600" cy="220" r="1.2"/><circle cx="660" cy="220" r="1.2"/><circle cx="720" cy="220" r="1.2"/><circle cx="780" cy="220" r="1.2"/><circle cx="840" cy="220" r="1.2"/>
+    <circle cx="60" cy="280" r="1.2"/><circle cx="120" cy="280" r="1.2"/><circle cx="180" cy="280" r="1.2"/><circle cx="240" cy="280" r="1.2"/><circle cx="300" cy="280" r="1.2"/><circle cx="360" cy="280" r="1.2"/><circle cx="420" cy="280" r="1.2"/><circle cx="480" cy="280" r="1.2"/><circle cx="540" cy="280" r="1.2"/><circle cx="600" cy="280" r="1.2"/><circle cx="660" cy="280" r="1.2"/><circle cx="720" cy="280" r="1.2"/><circle cx="780" cy="280" r="1.2"/><circle cx="840" cy="280" r="1.2"/>
+  </g>
+
+  <!-- Accent line top -->
+  <rect x="60" y="44" width="120" height="3" rx="2" fill="url(#accent)"/>
+
+  <!-- Label pill -->
+  <rect x="60" y="60" width="160" height="28" rx="14" fill="#ff730020" stroke="#ff7300" stroke-width="1"/>
+  <text x="140" y="79" font-family="monospace" font-size="12" fill="#ff7300" text-anchor="middle" font-weight="600">✦ FULL STACK DEV</text>
+
+  <!-- Hi greeting -->
+  <text x="60" y="138" font-family="sans-serif" font-size="22" fill="#ffffff99" font-weight="400">Hi there, I'm</text>
+
+  <!-- Name -->
+  <text x="60" y="185" font-family="sans-serif" font-size="52" font-weight="800" fill="url(#nameGrad)">Vivek Sharma</text>
+
+  <!-- Tagline -->
+  <text x="60" y="218" font-family="sans-serif" font-size="15" fill="#ffffffaa" font-weight="400">Building AI-powered SaaS · Mobile apps · Open source</text>
+
+  <!-- Accent line bottom -->
+  <rect x="60" y="240" width="320" height="2" rx="1" fill="url(#accent)" opacity="0.5"/>
+
+  <!-- Stat pills -->
+  <rect x="60" y="256" width="105" height="28" rx="14" fill="#ffffff0d" stroke="#ffffff18" stroke-width="1"/>
+  <text x="113" y="275" font-family="sans-serif" font-size="12" fill="#ffffffcc" text-anchor="middle">20K+ downloads</text>
+
+  <rect x="176" y="256" width="90" height="28" rx="14" fill="#ffffff0d" stroke="#ffffff18" stroke-width="1"/>
+  <text x="221" y="275" font-family="sans-serif" font-size="12" fill="#ffffffcc" text-anchor="middle">3 npm pkgs</text>
+
+  <rect x="277" y="256" width="90" height="28" rx="14" fill="#ffffff0d" stroke="#ffffff18" stroke-width="1"/>
+  <text x="322" y="275" font-family="sans-serif" font-size="12" fill="#ffffffcc" text-anchor="middle">Full stack</text>
+
+  <!-- Right side decorative code block -->
+  <rect x="600" y="60" width="260" height="175" rx="12" fill="#ffffff08" stroke="#ffffff12" stroke-width="1"/>
+  <rect x="600" y="60" width="260" height="32" rx="12" fill="#ffffff0d"/>
+  <rect x="600" y="76" width="260" height="16" rx="0" fill="#ffffff0d"/>
+  <circle cx="624" cy="76" r="5" fill="#ff5f57"/>
+  <circle cx="644" cy="76" r="5" fill="#febc2e"/>
+  <circle cx="664" cy="76" r="5" fill="#28c840"/>
+  <text x="632" y="107" font-family="monospace" font-size="12" fill="#ff7300">const</text>
+  <text x="684" y="107" font-family="monospace" font-size="12" fill="#ffffffcc">dev = {</text>
+  <text x="632" y="127" font-family="monospace" font-size="11" fill="#ffffffaa">  name:</text>
+  <text x="690" y="127" font-family="monospace" font-size="11" fill="#98c379">"Vivek"</text><text x="733" y="127" font-family="monospace" font-size="11" fill="#ffffff66">,</text>
+  <text x="632" y="147" font-family="monospace" font-size="11" fill="#ffffffaa">  stack:</text>
+  <text x="691" y="147" font-family="monospace" font-size="11" fill="#98c379">"React+Java"</text><text x="786" y="147" font-family="monospace" font-size="11" fill="#ffffff66">,</text>
+  <text x="632" y="167" font-family="monospace" font-size="11" fill="#ffffffaa">  loves:</text>
+  <text x="690" y="167" font-family="monospace" font-size="11" fill="#98c379">"shipping"</text><text x="768" y="167" font-family="monospace" font-size="11" fill="#ffffff66">,</text>
+  <text x="632" y="187" font-family="monospace" font-size="11" fill="#ffffffaa">  ai:</text>
+  <text x="663" y="187" font-family="monospace" font-size="11" fill="#61afef">true</text>
+  <text x="632" y="207" font-family="monospace" font-size="12" fill="#ffffffcc">}</text>
+
+  <!-- Cursor blink rect -->
+  <rect x="645" y="196" width="8" height="14" rx="1" fill="#ff7300" opacity="0.9"/>
+</svg>
